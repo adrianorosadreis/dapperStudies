@@ -1,0 +1,133 @@
+C:\dev\BlogBalta\bin\Debug\net9.0\BlogBalta.exe
+C:\dev\BlogBalta\bin\Debug\net9.0\BlogBalta.deps.json
+C:\dev\BlogBalta\bin\Debug\net9.0\BlogBalta.runtimeconfig.json
+C:\dev\BlogBalta\bin\Debug\net9.0\BlogBalta.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\BlogBalta.pdb
+C:\dev\BlogBalta\bin\Debug\net9.0\Azure.Core.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Azure.Identity.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Dapper.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Dapper.Contrib.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\System.ClientModel.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\System.Memory.Data.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\dev\BlogBalta\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\dev\BlogBalta\obj\Debug\net9.0\BlogBalta.csproj.AssemblyReference.cache
+C:\dev\BlogBalta\obj\Debug\net9.0\BlogBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\BlogBalta\obj\Debug\net9.0\BlogBalta.AssemblyInfoInputs.cache
+C:\dev\BlogBalta\obj\Debug\net9.0\BlogBalta.AssemblyInfo.cs
+C:\dev\BlogBalta\obj\Debug\net9.0\BlogBalta.csproj.CoreCompileInputs.cache
+C:\dev\BlogBalta\obj\Debug\net9.0\BlogBalta.csproj.Up2Date
+C:\dev\BlogBalta\obj\Debug\net9.0\BlogBalta.dll
+C:\dev\BlogBalta\obj\Debug\net9.0\refint\BlogBalta.dll
+C:\dev\BlogBalta\obj\Debug\net9.0\BlogBalta.pdb
+C:\dev\BlogBalta\obj\Debug\net9.0\BlogBalta.genruntimeconfig.cache
+C:\dev\BlogBalta\obj\Debug\net9.0\ref\BlogBalta.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\BlogBalta.exe
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\BlogBalta.deps.json
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\BlogBalta.runtimeconfig.json
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\BlogBalta.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\BlogBalta.pdb
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Azure.Core.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Azure.Identity.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Dapper.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Dapper.Contrib.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\System.ClientModel.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\System.Memory.Data.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\dev\Dapper studies\Challenge\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\BlogBalta.csproj.AssemblyReference.cache
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\BlogBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\BlogBalta.AssemblyInfoInputs.cache
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\BlogBalta.AssemblyInfo.cs
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\BlogBalta.csproj.CoreCompileInputs.cache
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\BlogBalta.sourcelink.json
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\BlogBalta.csproj.Up2Date
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\BlogBalta.dll
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\refint\BlogBalta.dll
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\BlogBalta.pdb
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\BlogBalta.genruntimeconfig.cache
+C:\dev\Dapper studies\Challenge\obj\Debug\net9.0\ref\BlogBalta.dll
